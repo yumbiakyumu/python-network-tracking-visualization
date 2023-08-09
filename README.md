@@ -26,7 +26,7 @@ This script processes network traffic data captured in a PCAP file, extracts sou
 3. Obtain a valid GeoIP database (`GeoLiteCity.dat`) from a trusted source like MaxMind. Place this database file in the same directory as the script.
 
 ## Usage
-1.Use tools like Wireshark to inspect and caputure valid network traffic data with actual IP addresses.
+1.Use tools like Wireshark to inspect and capture valid network traffic data with actual IP addresses.
 
 2.Remember to replace 'x.xxx.xxx.xxx' with the actual public IPv4 address you want to use for demonstration purposes.
 
